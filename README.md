@@ -30,7 +30,7 @@ TONxDAO is an automated script for managing accounts, performing check-ins, comp
 ## Usage
 Run the script with:
 ```sh
-python tonxdao.py
+python bot.py
 ```
 The script will execute and wait for 7 hours before running again.
 
